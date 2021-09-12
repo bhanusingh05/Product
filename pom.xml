@@ -21,9 +21,8 @@
 
 	
 	<properties>
-		<sonar.projectKey>bharathnamars_secondone
-		</sonar.projectKey>
-	<sonar.organization>perfectkey</sonar.organization>
+		<sonar.projectKey>bhanusingh05_Product</sonar.projectKey>
+	<sonar.organization>bhanu86</sonar.organization>
 	<sonar.host.url>https://sonarcloud.io</sonar.host.url>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
